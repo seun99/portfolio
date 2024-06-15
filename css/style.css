@@ -279,6 +279,7 @@ a.active {
 		background: url(../img/Purple.jpg);
 		background-size: cover;
 		height: 100vh;
+        
 		
 }
 @media only screen and (min-width:1200px) {
@@ -301,8 +302,8 @@ a.active {
 	.table-cell h1{
 		color:#fff;
 		padding-top:100px;
-        font-family: "'Lato', sans-serif";
         font-size: 50px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	}
 	.disply-table {
 		display: table;
@@ -401,15 +402,16 @@ a.active {
 
 .about-img-div img {
     margin: 0 auto;
+    width: 400px;
+    height: 510px;
 }
 
 .about-border {
     position: absolute;
     border: 10px solid rgba(153,107,187,0.4);
     width: 400px;
-    height: 400px;
-    top: 40px;
-    left: 50px;
+    height: 510px;
+    left: 85px;
     z-index: 1
 }
 .h{
@@ -601,7 +603,7 @@ a.active {
 ==================================================*/
 
 #projects {
-    padding: 50px 0 120px;
+    padding: 50px 0 300px;
 		background:#f8f8f8;
 }
 
