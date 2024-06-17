@@ -276,7 +276,7 @@ a.active {
 ==================================================*/
 
 #home {
-		background: url(../img/img/Purple.jpg);
+		background: url(../img/Purple.jpg);
 		background-size: cover;
 		height: 100vh;
 		
@@ -302,7 +302,7 @@ a.active {
 		color:#fff;
 		padding-top:80px;
         font-size: 50px;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-family: "맑은고딕";
 	}
 	.disply-table {
 		display: table;
